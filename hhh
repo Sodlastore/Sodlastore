@@ -1,1 +1,5 @@
-global.owner ["083111255637"]
+obal.owner = ["6283111255637"];
+global.author = "RezaDevv";
+global.packname = "Push-Kontak";
+global.sessionName = "Bot-Session";
+global.versionbot = "1.2.0";
